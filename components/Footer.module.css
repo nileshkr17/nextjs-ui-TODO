@@ -1,0 +1,19 @@
+/* .footer {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  }
+   */
+
+   .footer{
+    background-color: #f5f5f5;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+
+   }
